@@ -4,8 +4,8 @@
 
 ### Engineering Sciences student building playful interfaces, observable systems, and dependable software.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_my_work-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dexasan/portfolio)
-[![Repositories](https://img.shields.io/badge/Repositories-See_what_I_build-FF5A36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dexasan?tab=repositories)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dexasan/portfolio)
+[![Repositories](https://img.shields.io/badge/Repositories-FF5A36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dexasan?tab=repositories)
 
 </div>
 
@@ -21,6 +21,14 @@ I learn by building systems whose behavior I can see and explain. My current int
 - playful, technically ambitious web experiences
 
 ## Selected work
+
+### DITCH
+
+**One stream. Every platform. Anyone can join.**
+
+A video-first live platform designed around a multi-stream gateway and a participatory creator channel. Creators can send one source to multiple streaming destinations while viewers join the DITCH channel, enter the participant queue, and contribute live video or audio when admitted.
+
+Behind it is a TypeScript monorepo with a Next.js frontend, Fastify API, Socket.io realtime service, Supabase data layer, a browser-based canvas compositor, and a WebSocket-to-RTMP relay powered by FFmpeg.
 
 <table>
 <tr>
