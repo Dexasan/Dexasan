@@ -80,15 +80,6 @@ Static risk analysis for PostgreSQL migrations. It catches operationally dangero
 
 </div>
 
-## How I like to work
-
-- Make important system behavior visible.
-- Prefer small, inspectable foundations over unnecessary framework ceremony.
-- Treat failure states, edge cases, and operational clarity as product features.
-- Build the thing, measure it, then make it simpler.
-
----
-
 <div align="center">
 
 **Thanks for stopping by.**
