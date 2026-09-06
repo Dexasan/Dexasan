@@ -2,64 +2,72 @@
 
 # Hi, I'm Sandesh Chapagain
 
-### Engineering Sciences student building playful interfaces, observable systems, and dependable software.
+### Engineering Sciences student building real-time products, browser experiences, and dependable systems.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dexasan/portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=github&logoColor=white)](https://iamdex.xyz)
+[![DITCH](https://img.shields.io/badge/DITCH-FF5A36?style=for-the-badge&logoColor=white)](https://ditchlive.app)
 [![Repositories](https://img.shields.io/badge/Repositories-FF5A36?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dexasan?tab=repositories)
 
 </div>
 
 ---
 
-## What I'm interested in
+## About me
 
-I learn by building systems whose behavior I can see and explain. My current interests sit at the intersection of:
+I learn by building: from live video and social apps to browser games and infrastructure tools. I care about how a product feels to use and how its systems behave under the hood.
 
-- real-time systems and browser media
-- backend infrastructure and reliability
-- developer tools with transparent decisions
-- playful, technically ambitious web experiences
+My focus is real-time communication, browser media, and backend reliability. Across my projects, I aim to make important decisions explainable and failure states visible.
 
 ## Selected work
 
-### DITCH
+### [DITCH](https://ditchlive.app)
 
 **DITCH is a participation network for live video.**
 
-DITCH turns livestreams into shows the audience can actually join. Imagine watching a creator, tapping a button, and going from the chat to live on screen while everyone watches. DITCH lets creators build that kind of show, broadcast it everywhere, and get paid through sponsored participation.
+I'm building DITCH to turn livestreams into shows the audience can join. Viewers can move from chat to live on screen, while creators run participatory shows, broadcast to multiple platforms, and build experiences around sponsored participation.
 
-Behind it is a TypeScript monorepo with a Next.js frontend, Fastify API, Socket.io realtime service, Supabase data layer, a browser-based canvas compositor, and a WebSocket-to-RTMP relay powered by FFmpeg.
+**Under the hood:** TypeScript, Next.js, Fastify, Socket.io, and Supabase, with a browser canvas compositor and an FFmpeg-powered WebSocket-to-RTMP relay.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Roadrash](https://github.com/Dexasan/roadrash)
+### [Yappie](https://github.com/Dexasan/yappie)
 
-A playable browser motorcycle-combat racer built from scratch with React, TypeScript, and Canvas 2D. Hand-written rendering, physics, rival AI, traffic, and combat -- no game engine.
+An Android-first social discovery app in private beta. Meet people through Quick Chat, public posts, persistent DMs, and interest-based Clubs, with matching and moderation built into the experience.
+
+**Built with:** TypeScript, Expo, Supabase, and a Cloudflare Realtime audio integration.
 
 </td>
 <td width="50%" valign="top">
 
-### [ArchScale](https://github.com/Dexasan/ArchScale)
+### [Writmail](https://github.com/Dexasan/Writmail)
 
-An interactive capacity-planning workbench that turns early workload assumptions into explainable estimates for throughput, storage, topology, reliability, and cloud cost.
+A creator discovery and outreach workspace built for DITCH. Search public sources, review evidence, save prospects, and prepare personalized email drafts for human review.
+
+**Built with:** TypeScript, React, Cloudflare Workers, D1, and Tavily.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### [LocalLens](https://github.com/Dexasan/LocalLens)
+### [Roadrash](https://github.com/Dexasan/roadrash)
 
-Private, citation-first knowledge retrieval without cloud calls. Every relevance score is inspectable, and unsupported answers are refused.
+A playable browser motorcycle-combat racer with custom rendering, physics, rival AI, traffic, and combat. A tribute to the game that sparked my fascination with computers.
+
+**Built with:** React, TypeScript, and Canvas 2D.
+
+[Play the game](https://roadrash-rho.vercel.app)
 
 </td>
 <td width="50%" valign="top">
 
-### [DriftSafe](https://github.com/Dexasan/DriftSafe)
+### [ArchScale](https://github.com/Dexasan/ArchScale)
 
-Static risk analysis for PostgreSQL migrations. It catches operationally dangerous SQL before it reaches a production lock queue.
+An interactive capacity-planning workbench that turns workload assumptions into explainable estimates for throughput, storage, topology, reliability, and cloud cost.
+
+[Explore the workbench](https://arch-scale-lac.vercel.app)
 
 </td>
 </tr>
@@ -82,8 +90,6 @@ Static risk analysis for PostgreSQL migrations. It catches operationally dangero
 
 <div align="center">
 
-**Thanks for stopping by.**
-
-[Browse all repositories](https://github.com/Dexasan?tab=repositories)
+[Visit my portfolio](https://iamdex.xyz) · [Explore DITCH](https://ditchlive.app) · [Browse all repositories](https://github.com/Dexasan?tab=repositories)
 
 </div>
